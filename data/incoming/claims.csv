@@ -1,0 +1,51 @@
+claim_id,policy_id,claim_date,claim_type,claim_amount,claim_status
+CL001,P012,2026-06-08,Hospitalization,43915,Rejected
+CL002,P037,2026-06-18,Theft,114812,Under Investigation
+CL003,P036,2026-07-04,Hospitalization,189794,Under Investigation
+CL004,P023,2026-06-22,Theft,34257,Rejected
+CL005,P010,2026-07-13,Property Damage,64327,Rejected
+CL006,P039,2026-09-27,Accident,20633,Rejected
+CL007,P031,2026-04-14,Property Damage,93555,Under Investigation
+CL008,P018,2025-12-30,Accident,242253,Under Investigation
+CL009,P043,2026-08-19,Property Damage,245568,Approved
+CL010,P048,2026-06-22,Theft,17170,Approved
+CL011,P048,2026-09-10,Travel Delay,119634,Approved
+CL012,P019,2026-02-26,Property Damage,161388,Rejected
+CL013,P002,2026-10-04,Property Damage,162027,Under Investigation
+CL014,P002,2026-10-04,Property Damage,87921,Rejected
+CL015,P033,2026-08-05,Hospitalization,196589,Rejected
+CL016,P040,2026-09-08,Hospitalization,112579,Under Investigation
+CL017,P006,2026-10-03,Theft,69396,Approved
+CL018,P028,2026-08-02,Travel Delay,98320,Under Investigation
+CL019,P035,2026-04-06,Travel Delay,143672,Rejected
+CL020,P044,2026-08-19,Property Damage,175308,Under Investigation
+CL021,P003,2026-02-12,Accident,76759,Approved
+CL022,P040,2026-09-26,Theft,37775,Approved
+CL023,P024,2026-09-03,Property Damage,212554,Rejected
+CL024,P010,2026-03-04,Accident,8618,Under Investigation
+CL025,P007,2026-06-02,Accident,11004,Under Investigation
+CL026,P027,2026-07-02,Accident,82672,Under Investigation
+CL027,P016,2026-09-26,Travel Delay,241268,Approved
+CL028,P025,2026-03-02,Hospitalization,187832,Under Investigation
+CL029,P050,2026-08-04,Property Damage,159065,Approved
+CL030,P042,2026-08-24,Accident,9674,Under Investigation
+CL031,P028,2026-09-16,Accident,135642,Approved
+CL032,P015,2026-06-24,Property Damage,55817,Under Investigation
+CL033,P008,2026-08-24,Theft,205099,Approved
+CL034,P018,2026-02-25,Property Damage,130931,Approved
+CL035,P002,2026-10-05,Theft,9630,Approved
+CL036,P025,2026-07-25,Travel Delay,118712,Under Investigation
+CL037,P042,2025-11-09,Travel Delay,234336,Rejected
+CL038,P018,2026-02-18,Accident,211894,Approved
+CL039,P021,2026-09-30,Hospitalization,125931,Approved
+CL040,P015,2026-06-18,Theft,248460,Rejected
+CL041,P047,2026-04-12,Hospitalization,248959,Approved
+CL042,P013,2025-12-10,Accident,229900,Approved
+CL043,P024,2026-09-16,Travel Delay,12520,Approved
+CL044,P010,2026-06-23,Travel Delay,101665,Approved
+CL045,P015,2026-09-05,Theft,167334,Under Investigation
+CL046,P016,2026-05-20,Travel Delay,99860,Under Investigation
+CL047,P010,2026-06-30,Property Damage,243166,Under Investigation
+CL048,P001,2026-08-18,Theft,30147,Approved
+CL049,P043,2026-09-05,Hospitalization,32335,Under Investigation
+CL050,P027,2026-09-08,Accident,21610,Under Investigation
