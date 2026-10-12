@@ -1,0 +1,16 @@
+SELECT
+    (SELECT COUNT(*)
+     FROM workspace.default.gold_customer_360)
+        AS total_customers,
+    
+    (SELECT COUNT(*)
+     FROM workspace.default.gold_policy_summary)
+        AS total_policies,
+
+    (SELECT COALESCE(SUM(premium), 0)
+     FROM workspace.default.gold_policy_summary)
+        AS total_premium,
+
+    (SELECT count(*)
+     FROM workspace.default.gold_claims_summary)
+        AS total_claims;
