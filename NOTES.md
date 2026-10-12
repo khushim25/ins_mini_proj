@@ -48,3 +48,10 @@ Follow the Steps:
 6. One can try uploading the another csv to check with increamental ingestion
 7. Before Creating Silver table Explore Jobs and Tasks and how it will be useful in creationg projects
 8. Cerate Silver table for the three Bronze Tables.
+
+-----
+
+Now, after creating gold tables as sql folder, Dashboard is prepared as shown in the images
+
+![Alt Text](./images/db_1.png)
+![Alt Text](./images/db_2.png)
